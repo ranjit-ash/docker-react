@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           {/* Edit <code>src/App.js</code> and save to reload. */}
-          This is my first docker project! with docker compose
+          This is my first docker project! with docker compose!
         </p>
         <a
           className="App-link"
